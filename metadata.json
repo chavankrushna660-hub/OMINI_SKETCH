@@ -1,6 +1,6 @@
 {
-  "name": "AnimaStudio",
-  "description": "An advanced vector object-based 2D animation system featuring persistent selection, multi-pivot rigging, nested parent-child hierarchies, skeletal Inverse Kinematics, smart automated variable loops, and vector/video export.",
+  "name": "animastudio",
+  "description": "An advanced vector 2D animation system featuring multi-pivot rigging, parent-child hierarchies, and variable loop automation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
